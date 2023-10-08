@@ -1,0 +1,14 @@
+C:\Users\carol\OneDrive\Escritorio\6ta_pregunta_324\6ta_pregunta_324\bin\Debug\6ta_pregunta_324.exe.config
+C:\Users\carol\OneDrive\Escritorio\6ta_pregunta_324\6ta_pregunta_324\bin\Debug\6ta_pregunta_324.exe
+C:\Users\carol\OneDrive\Escritorio\6ta_pregunta_324\6ta_pregunta_324\bin\Debug\6ta_pregunta_324.pdb
+C:\Users\carol\OneDrive\Escritorio\6ta_pregunta_324\6ta_pregunta_324\bin\Debug\MySql.Data.dll
+C:\Users\carol\OneDrive\Escritorio\6ta_pregunta_324\6ta_pregunta_324\bin\Debug\Google.Protobuf.dll
+C:\Users\carol\OneDrive\Escritorio\6ta_pregunta_324\6ta_pregunta_324\bin\Debug\MySql.Data.xml
+C:\Users\carol\OneDrive\Escritorio\6ta_pregunta_324\6ta_pregunta_324\obj\Debug\6ta_pregunta_324.csproj.AssemblyReference.cache
+C:\Users\carol\OneDrive\Escritorio\6ta_pregunta_324\6ta_pregunta_324\obj\Debug\_6ta_pregunta_324.Form1.resources
+C:\Users\carol\OneDrive\Escritorio\6ta_pregunta_324\6ta_pregunta_324\obj\Debug\_6ta_pregunta_324.Properties.Resources.resources
+C:\Users\carol\OneDrive\Escritorio\6ta_pregunta_324\6ta_pregunta_324\obj\Debug\6ta_pregunta_324.csproj.GenerateResource.cache
+C:\Users\carol\OneDrive\Escritorio\6ta_pregunta_324\6ta_pregunta_324\obj\Debug\6ta_pregunta_324.csproj.CoreCompileInputs.cache
+C:\Users\carol\OneDrive\Escritorio\6ta_pregunta_324\6ta_pregunta_324\obj\Debug\6ta_pregunta_324.csproj.CopyComplete
+C:\Users\carol\OneDrive\Escritorio\6ta_pregunta_324\6ta_pregunta_324\obj\Debug\6ta_pregunta_324.exe
+C:\Users\carol\OneDrive\Escritorio\6ta_pregunta_324\6ta_pregunta_324\obj\Debug\6ta_pregunta_324.pdb
